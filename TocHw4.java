@@ -5,8 +5,7 @@ import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.io.*;
-import javax.script.SimpleBindings;
-import org.json.*;import org.json.JSONObject;
+import org.json.*;
 
 class Road{
 	String Name;
